@@ -1,0 +1,11 @@
+alembic
+fastapi
+# Ran pip install "passlib[bcrypt]" in terminal
+passlib[bcrpyt]
+psycopg2-binary
+pydantic
+pyjwt
+python-decouple
+python-multipart
+sqlmodel
+uvicorn
